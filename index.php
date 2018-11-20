@@ -105,17 +105,13 @@
             <li class="collection-header blue white-text">
               <i class="fas fa-map-marker"></i> Contact us
             </li>
-            <li>
-              <img class="responsive-img" src="img/contact_us.jpeg" alt="contact">
-            </li>
+          
             <li>
               <p style="padding:0 1em;">
-                Universiti Teknikal Malaysia Melaka,<br>
-                Hang Tuah Jaya, 76100 Durian Tunggal,<br>
-                Melaka, Malaysia.<br><br>
-                <i class="fas fa-phone"></i>&nbsp;&nbsp;+606 555 2000<br>
-                <i class="fas fa-phone"></i>&nbsp;&nbsp;+606 331 6247<br>
-                <i class="fas fa-envelope"></i>&nbsp;&nbsp;<a href="#">webmaster@utem.edu.my</a>
+                Indira Gandhi National Open University.<br><br>
+                <i class="fas fa-phone"></i>&nbsp;&nbsp;+91 9643033241<br>
+                <i class="fas fa-phone"></i>&nbsp;&nbsp;+91 8860288450<br>
+                <i class="fas fa-envelope"></i>&nbsp;&nbsp;<a href="#">webmaster@aditi.com</a>
               </p>
             </li>
           </ul>
